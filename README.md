@@ -5,4 +5,4 @@
 [学生与老师](学生与老师.apk)<br>
 [涂鸦相机](TYXJ.apk)<br>
 [screen_off_manager(.exe)](screen_off_manager_Setup.exe)<br>
-[音乐播放器](app-release.apk)
+[音乐播放器](https://zztxtkinetl.dpdns.org/app.cn/app-release.apk)
